@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al Shadab Arnab</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+![I am a ](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/314190042_3427369987521627_4503295943319866476_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFu-AAGsCf4Od6JrW1gNyLBh7x9bIaOGeeHvH1sho4Z5_-uQQd0_bEJRngRdg0OmsCEzeMoFLKUyByBmvAJknzN&_nc_ohc=FC3J1RlKgjQAX9TBqrK&_nc_ht=scontent.fdac24-2.fna&oh=00_AfAmt7bnovhFXOCheYI9jzIQF9tmDgtEoDn4hp8ZZ-zzyw&oe=65099779)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alshadab&label=Profile%20views&color=0e75b6&style=flat" alt="alshadab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alshadab" alt="alshadab" /></a> </p>
