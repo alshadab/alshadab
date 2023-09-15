@@ -7,6 +7,14 @@ I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been 
 Skills: REACT / JS / HTML / CSS / Express / Node.js / C / illustrator
 
 - 📫 How to reach me: alshadabarnab@gmail.com 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link](https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/al-shadab-arnab-12ba891b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-shadab-arnab-12ba891b0" height="30" width="40" /></a>
+<a href="https://instagram.com/alshadab.arnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alshadab.arnab" height="30" width="40" /></a>
+</p>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alshadab)  
