@@ -7,7 +7,7 @@ I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been 
 Skills: REACT / JS / HTML / CSS / Express / Node.js / C / illustrator
 
 - 📫 How to reach me: alshadabarnab@gmail.com
-- 🔭 I’m currently working on Junior Software Developer 
+- 🔭 I’m currently working on Traideas as a Junior Software Developer (Intern)
 - 🌱 I’m currently learning NEXT.js
 - 👨‍💻 All of my projects are available at <a href="https://al-shadab-arnab-portfolio.onrender.com/">Portfolio</a>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link](https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link)
