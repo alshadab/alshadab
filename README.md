@@ -2,9 +2,9 @@
 ### Junior Software Engineer
 ![I am a Junior Software Engineer](https://media.licdn.com/dms/image/D5616AQHHgwOzpSwAvQ/profile-displaybackgroundimage-shrink_350_1400/0/1694797956471?e=1700092800&v=beta&t=uVQ-ZQXRQSLyW4WZzpN0ByXMBd8e8lq7WiCVRCuKg7U)
 
-I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been working as a Professional Junior Software Engineer for the last 1 year, Though I started my Self-Taught Programming Journey In 2020. I am specialized in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. I am an energetic, hardworking, motivated, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I always try to achieve the highest standard possible. I want to go far by helping each other. I am excellent at working with others. Overall If a person has a passion for work, he can do everything. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
+I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been working as a Professional Junior Software Engineer for the last 1 year, Though I started my Self-Taught Programming Journey In 2020. I am specialized in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. I am an energetic, hardworking, motivated, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I always try to achieve the highest standard possible. I want to go far by helping each other. I am excellent at working with others. Overall If a person has a passion for work, he can do everything. Aspiring to combine broad background with strong technical skills to excel as a Front-End and back-end developer.
 
-Skills: REACT / JS / HTML / CSS / Express / Node.js / C / illustrator
+Skills: REACT / JS / HTML / CSS / Express / Node.js / C / MongoDB
 
 - 📫 How to reach me: alshadabarnab@gmail.com
 - 🔭 I’m currently working on Traideas as a Junior Software Developer (Intern)
@@ -32,5 +32,3 @@ Skills: REACT / JS / HTML / CSS / Express / Node.js / C / illustrator
 ![GitHub metrics](https://metrics.lecoq.io/alshadab)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alshadab)  
-
-![Profile views](https://gpvc.arturio.dev/alshadab)  
