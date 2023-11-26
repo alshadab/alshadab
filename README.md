@@ -1,6 +1,6 @@
 ## Hi there 👋, This is Al Shadab Arnab
 ### Junior Software Engineer
-![I am a Junior Software Engineer]([https://media.licdn.com/dms/image/D5616AQHHgwOzpSwAvQ/profile-displaybackgroundimage-shrink_350_1400/0/1694797956471?e=1700092800&v=beta&t=uVQ-ZQXRQSLyW4WZzpN0ByXMBd8e8lq7WiCVRCuKg7U](https://images.unsplash.com/photo-1682695796795-cc287af78a2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![I am a Junior Software Engineer](https://github.com/alshadab/alshadab/assets/98542751/115930d0-ea36-40b0-97d6-1d6cf3473d5c)
 
 I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been working as a Professional Junior Software Engineer for the last 1 year, Though I started my Self-Taught Programming Journey In 2020. I am specialized in converting pixel-perfect web pages for my company with 100% Mobile responsiveness. I am an energetic, hardworking, motivated, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with. I always try to achieve the highest standard possible. I want to go far by helping each other. I am excellent at working with others. Overall If a person has a passion for work, he can do everything. Aspiring to combine broad background with strong technical skills to excel as a Front-End and back-end developer.
 
