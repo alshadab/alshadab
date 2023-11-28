@@ -10,8 +10,8 @@ Skills: REACT / JS / HTML / CSS / Express / Node.js / C / MongoDB
 - 🔭 I’m currently working on Traideas as a Junior Software Developer (Intern)
 - 🌱 I’m currently learning NEXT.js
 - 👨‍💻 All of my projects are available at <a href="https://al-shadab-arnab-portfolio.onrender.com/">Portfolio</a>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link](https://drive.google.com/file/d/1tV7wAMS8Wi8qqglsZ2Th39-IMw4Q-5z6/view?usp=drive_link)
-
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1wRrJs97IUeSuWMxaqxwjnqRuCvUZC4ay?usp=sharing
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/al-shadab-arnab-12ba891b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-shadab-arnab-12ba891b0" height="30" width="40" /></a>
