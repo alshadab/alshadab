@@ -7,7 +7,7 @@ I am Al Shadab Arnab, a self-taught MERN Developer from Bangladesh. I have been 
 Skills: REACT / JS / HTML / CSS / Express / Node.js / C / MongoDB / Next.js
 
 - 📫 How to reach me: alshadabarnab@gmail.com
-- 🔭 I’m currently working on Traideas as a Junior Software Engineer
+- 🔭 I’m currently working on Eminence Chemical Industries LTD. as a Senior Executive Officer - IT
 - 🌱 I’m currently learning NEST.js, Zustand, Remix, Flutter
 - 👨‍💻 All of my projects are available at <a href="https://al-shadab-arnab-portfolio.onrender.com/">Portfolio</a>
 - 📄 Know about my experiences https://drive.google.com/drive/folders/1wRrJs97IUeSuWMxaqxwjnqRuCvUZC4ay?usp=sharing
